@@ -1,6 +1,6 @@
 import torch 
 from torchvision import datasets, transforms
-import pands as pd 
+import pandas as pd 
 import os
 
 import sys
